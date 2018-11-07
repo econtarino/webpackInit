@@ -1,0 +1,23 @@
+{
+  "name": "web-pack",
+  "version": "1.0.0",
+  "description": "Proyecto para minificar js y css",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.25.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/econtarino/webpackInit.git"
+  },
+  "author": "econtarino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/econtarino/webpackInit/issues"
+  },
+  "homepage": "https://github.com/econtarino/webpackInit#readme"
+}
