@@ -1,1 +1,1 @@
-console.log('lalala')
+console.log('hola mundo desde webpack.config')
